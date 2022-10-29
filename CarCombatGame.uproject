@@ -1,0 +1,14 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "CarCombatGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
